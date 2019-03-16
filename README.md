@@ -1,9 +1,12 @@
 # V3n0M-Scanner
-Cloudflare Resolver[Cloudbuster]
-LFI->RCE and XSS Scanning[LFI->RCE & XSS]
-SQL Injection Vuln Scanner[SQLi]
-Extremely Large D0rk Target Lists
-AdminPage Finding
-Toxin [Vulnerable FTPs Scanner] [To Be Released Soon]
-DNS BruteForcer
-Python 3.6 Asyncio based scanning
+<p>Cloudflare Resolver[Cloudbuster]</p>
+<p>LFI->RCE and XSS Scanning[LFI->RCE & XSS]</p>
+<p>SQL Injection Vuln Scanner[SQLi]</p>
+<p>Extremely Large D0rk Target Lists</p>
+<p>AdminPage Finding</p>
+<p>Toxin [Vulnerable FTPs Scanner] </p>
+<p>DNS BruteForcer</p>
+<p>Python 3.6 Asyncio based scanning</p>
+
+<p>
+Note for Ubuntu users: Please make sure you have installed --> sudo apt-get install python3-bs4 and apt-get install python3-setuptools</p>
