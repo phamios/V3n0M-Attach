@@ -1,4 +1,5 @@
 # V3n0M-Scanner
+<p>We Work in the Dark , and to solve in the light :) - Konichiwa </p>
 <p>Cloudflare Resolver[Cloudbuster]</p>
 <p>LFI->RCE and XSS Scanning[LFI->RCE & XSS]</p>
 <p>SQL Injection Vuln Scanner[SQLi]</p>
